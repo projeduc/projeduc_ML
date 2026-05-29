@@ -1,0 +1,84 @@
+Neural Networks
+|__ Feed Forward (FFNN)
+|    |__ MultiLayer Perceptron (MLP)
+|    |    |__ Layers: Dense, Embedding, Dropout, LayerNorm, BatchNorm
+|    |    |__ Variants: Residual MLP, MLP-Mixer, gMLP, ResMLP
+|    |
+|    |__ Convolutional (CNN)
+|    |    |__ Ops: Conv, Depthwise Conv, Dilated Conv, Transposed Conv
+|    |    |__ Pooling: Max, Avg, Global, Adaptive
+|    |    |__ Others: Flatten, Up-Sampling, Skip Connections (U-Net)
+|    |    |__ Architectures: VGG, ResNet, Inception, DenseNet, EfficientNet
+|    |
+|    |__ Graph Neural Networks (GNN)
+|    |    |__ Message-Passing GNNs
+|    |    |    |__ GCN, GAT, GraphSAGE, MPNN, GIN
+|    |    |__ Higher-Order / Specialized
+|    |         |__ Hypergraph NN, Graph Transformers, Relational GCN
+|    |
+|    |__ Attention-based (Non-Recurrent)
+|         |__ Self-Attention, Cross-Attention
+|         |__ Transformers
+|         |    |__ Encoder-only: BERT, RoBERTa
+|         |    |__ Decoder-only: GPT, LLaMA
+|         |    |__ Encoder–Decoder: T5, mT5, BART
+|         |    |__ Efficient variants: Longformer, BigBird, Reformer, Performer
+|         |__ State-Space / Modern Non-Attention Seq Models
+|              |__ S4, S5, Mamba, RetNet, RWKV
+|
+|__ Recurrent (RNN)
+|    |__ Vanilla RNN
+|    |    |__ Elman network, Jordan network
+|    |
+|    |__ Advanced RNN
+|    |    |__ LSTM (Vanilla, Peephole)
+|    |    |__ GRU
+|    |    |__ Bidirectional RNN/LSTM/GRU
+|    |    |__ Stacked & Hierarchical RNNs
+|    |
+|    |__ Memory-Augmented Networks
+|         |__ Differentiable Neural Computers (DNC)
+|         |__ Neural Turing Machines (NTM)
+|         |__ Memory Networks, Key-Value Memory Networks
+|         |__ Retrieval-Augmented Models (RETRO, RAG)
+|
+|__ Energy-based Models (EBM)
+|    |__ Neural Energy Models
+|    |    |__ Contrastive EBMs, Score Matching Models
+|    |    |__ Continuous-time EBMs, Hopfield Networks (Modernized)
+|    |
+|    |__ Boltzmann-Type Models
+|    |    |__ Boltzmann Machine (BM)
+|    |    |__ Restricted Boltzmann Machine (RBM)
+|    |    |__ Deep Belief Network (DBN)
+|    |    |__ Deep Boltzmann Machine (DBM)
+|
+|__ Generative Models
+|    |__ Autoencoders (AE)
+|    |    |__ Vanilla AE, Sparse AE, Denoising AE (DAE), Contractive AE
+|    |    |__ Variational Autoencoder (VAE), β-VAE, VQ-VAE, VQ-VAE-2
+|    |
+|    |__ Generative Adversarial Networks (GAN)
+|    |    |__ Vanilla GAN, DCGAN, WGAN/WGAN-GP
+|    |    |__ Conditional GANs, StyleGAN (1–3), BigGAN
+|    |
+|    |__ Normalizing Flows
+|    |    |__ RealNVP, Glow, Flow++, Residual Flows
+|    |
+|    |__ Diffusion Models
+|         |__ DDPM, DDIM, Score-based SDE models
+|         |__ Latent Diffusion (Stable Diffusion), DiT (Diffusion Transformer)
+|
+|__ Continuous-depth & Differential Equation Models
+|    |__ Neural ODEs
+|    |__ Continuous Normalizing Flows (CNFs)
+|    |__ Augmented Neural ODEs
+|    |__ Hamiltonian Neural Networks
+|
+|__ Hybrid / Specialized Architectures
+     |__ CNN–Transformer Hybrids (CoAtNet, ConvNeXt)
+     |__ RNN–Attention Hybrids (Universal Transformer, RWKV)
+     |__ Graph Transformers
+     |__ Mixture-of-Experts (MoE) Transformers (Switch, Mixtral)
+     |__ Capsule Networks
+     |__ Spiking Neural Networks (SNN)

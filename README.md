@@ -1,15 +1,15 @@
-# <img src="extra/logo/esi.ml-logo.png" width=100px> "Machine Learning" practicals
+# Machine Learning
 
 
-[![Type](https://img.shields.io/badge/Type-Cours-0014A8.svg?style=flat)](https://github.com/projeduc/ESI_2CS_ML)
+[![Type](https://img.shields.io/badge/Type-Cours-0014A8.svg?style=flat)](https://github.com/projeduc/projeduc_ML)
 [![License](https://img.shields.io/badge/Licence-CC--BY_4.0-0014A8.svg?style=flat)](https://creativecommons.org/licenses/by/4.0/deed.fr)
-[![GitHub release](https://img.shields.io/github/release/projeduc/ESI_2CS_ML.svg)](https://github.com/projeduc/ESI_2CS_ML/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/projeduc/ESI_2CS_ML/total.svg)](https://github.com/projeduc/ESI_2CS_ML/releases)
-[![Github Release](https://img.shields.io/github/downloads/projeduc/ESI_2CS_ML/latest/total.svg)](https://github.com/projeduc/ESI_2CS_ML/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/projeduc/projeduc_ML.svg)](https://github.com/projeduc/projeduc_ML/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/projeduc/projeduc_ML/total.svg)](https://github.com/projeduc/projeduc_ML/releases)
+[![Github Release](https://img.shields.io/github/downloads/projeduc/projeduc_ML/latest/total.svg)](https://github.com/projeduc/projeduc_ML/releases/latest)
 
 This repo contains some lectures and labs presented in "Machine Learning" designed for students of "école nationale supérieure d'informatique (ESI)", Algiers, Algeria.
 
-[Download here](https://github.com/projeduc/ESI_2CS_ML/releases)
+[Download here](https://github.com/projeduc/projeduc_ML/releases)
 
 ## Full lectures
 
