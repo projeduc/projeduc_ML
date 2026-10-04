@@ -7,9 +7,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/projeduc/projeduc_ML/total.svg)](https://github.com/projeduc/projeduc_ML/releases)
 [![Github Release](https://img.shields.io/github/downloads/projeduc/projeduc_ML/latest/total.svg)](https://github.com/projeduc/projeduc_ML/releases/latest)
 
-This repo contains some lectures and labs presented in "Machine Learning" designed for students of "école nationale supérieure d'informatique (ESI)", Algiers, Algeria.
-
-[Download here](https://github.com/projeduc/projeduc_ML/releases)
+ML course
 
 ## Full lectures
 
